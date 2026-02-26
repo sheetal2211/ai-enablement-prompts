@@ -21,7 +21,7 @@ This file must include:
 
 ### 1. **Context Section**
 
-Provides tech stack, framework, tools, architecture
+Provides tech stack, framework, libraries, tools, architecture
 
 ---
 
@@ -33,8 +33,12 @@ Provides general coding and architectural guidelines.
 
 ### 3. **File Structure And Patterns Section**
 
-Map out the project’s file and folder structure
-
+- Map out the project’s file and folder structure
+- For each module in the project 
+  - Map the File and Folder Structure
+  - Document Patterns to Follow
+  - Document Patterns to Avoid
+  - Format
 ---
 
 ### 4. **Contribution Guidelines**
